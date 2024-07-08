@@ -65,10 +65,10 @@ android {
     // http://www.sollyu.com/android-apk-studio-generated-automatically-appends-a-version-number/
     android.applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            if(buildType.name == "release") {
-                output.outputFileName = new File("TouchHelper" + "-" + buildType.name + "-v" + defaultConfig.versionName + ".apk" );
-            } else {
-                output.outputFileName = new File("TouchHelper" + "-" + buildType.name + "-v" + defaultConfig.versionName + ".apk" );
+             if (variant.buildType.name == "release") {
+                output.outputFileName = new File("TouchHelper_release.apk")
+            } else if (variant.buildType.name == "debug") {
+                output.outputFileName = new File("TouchHelper_debug.apk")
             }
         }
     }
