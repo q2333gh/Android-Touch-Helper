@@ -31,10 +31,16 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("touch_helper.keystore")
-            storePassword "touchhelper"
-            keyAlias "touchhelper"
-            keyPassword "touchhelper"
+            storeFile file("debug.keystore")
+            storePassword "android"
+            keyAlias "android"
+            keyPassword "android"
+        }
+         debug {
+            storeFile file('debug.keystore')
+            storePassword 'android'
+            keyAlias 'android'
+            keyPassword 'android'
         }
     }
 
