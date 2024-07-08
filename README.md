@@ -2,7 +2,7 @@
 
 ![Build_TouchHelper_APK](https://github.com/zfdang/Android-Touch-Helper/workflows/Build_TouchHelper_APK/badge.svg)
 
-# 直接下载:  [点我](my_release\TouchHelper-release-v2024.07.08.apk)
+# 直接下载:  [点我](my_release\TouchHelper_release.apk)
 # 开屏跳过 - 安卓系统的开屏广告自动跳过助手
 
 自动跳过软件的实现，一般都是基于安卓的Accessibility“无障碍服务”实现。开启了无障碍服务的软件，可以获取屏幕上的任何内容，从而可以检测广告，帮助用户自动跳过。因此，使用广告跳过程序，最大的风险是个人信息被泄露！
