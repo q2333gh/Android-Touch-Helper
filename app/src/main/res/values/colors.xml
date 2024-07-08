@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+  <!-- 主背景 -->
+    <color name="colorPrimary">#69AC68</color>
+
+    <!-- 通知栏 -->
+    <color name="colorPrimaryDark">#38713B</color>
+
+    <!-- 副颜色 :section主标题,滑动配色等-->
+    <color name="colorAccent">#9BA7AD</color>
 
     <color name="divideLine">#25000000</color>
     <color name="textColor">#ff000000</color>
