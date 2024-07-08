@@ -2,6 +2,8 @@
 
 ![Build_TouchHelper_APK](https://github.com/zfdang/Android-Touch-Helper/workflows/Build_TouchHelper_APK/badge.svg)
 
+# 直接下载: 
+[点我](my_release\TouchHelper-release-v2024.07.08.apk)
 
 # 开屏跳过 - 安卓系统的开屏广告自动跳过助手
 
@@ -16,24 +18,9 @@
 3. 应用的指定位置。当应用工作时，自动点击对应的区域。
 
 欢迎大家贡献想法和代码！
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.zfdang.touchhelper/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=com.zfdang.touchhelper)
-
-# 项目网站
-
-[http://TouchHelper.zfdang.com](http://TouchHelper.zfdang.com)
-
-# 一点说明
-这是几年前搞的一个个人项目，现在没什么精力来改进和维护了，大家提的新需求了，估计很难满足了...
-
-如果有人愿意提交PR, 我会尽量Review之后Merge的
-
 # 感谢
+
+Fork from : https://github.com/zfdang/Android-Touch-Helper
 
 项目借鉴了不少AccessibilityTool的代码，在此表示感谢！
 
@@ -45,8 +32,13 @@ sdk下载和安装:运行.项目根目录下:
 # sdk:
 ./sdk_setup.sh
 # build:
-./gradlew build
 ```
+
+# 运行效果
+btwl优化了点儿图标和内部配色
+![alt text](docs/image.png)
+![alt text](docs/img2.png)
+
 
 
 
