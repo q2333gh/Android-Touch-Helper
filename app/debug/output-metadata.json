@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.zfdang.touchhelper",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 255,
+      "versionName": "2024.07.08",
+      "outputFile": "TouchHelper-debug-v2024.07.08.apk"
+    }
+  ],
+  "elementType": "File"
+}
