@@ -1,3 +1,5 @@
+
+# Forked from : https://github.com/zfdang/Android-Touch-Helper
 # Android-Touch-Helper
 
 ![Build_TouchHelper_APK](https://github.com/zfdang/Android-Touch-Helper/workflows/Build_TouchHelper_APK/badge.svg)
@@ -19,7 +21,7 @@
 欢迎大家贡献想法和代码！
 # 感谢
 
-Fork from : https://github.com/zfdang/Android-Touch-Helper
+
 
 项目借鉴了不少AccessibilityTool的代码，在此表示感谢！
 
@@ -34,9 +36,9 @@ sdk下载和安装:运行.项目根目录下:
 ```
 
 # 运行效果
-btwl优化了点儿图标和内部配色
-![alt text](docs/image.png)
-![alt text](docs/img2.png)
+btwl优化了点儿图标和内部配色  
+![alt text](docs/image.png)  
+![alt text](docs/img2.png)  
 
 
 
